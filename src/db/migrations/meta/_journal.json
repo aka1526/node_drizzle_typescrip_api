@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1731998218084,
+      "tag": "0000_regular_puppet_master",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1731998257492,
+      "tag": "0001_fantastic_mystique",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1731998693348,
+      "tag": "0002_same_shiva",
+      "breakpoints": true
+    }
+  ]
+}
